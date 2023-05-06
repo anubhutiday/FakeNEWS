@@ -9,3 +9,4 @@ Our goal was, the final output should be able to interpret fake news correctly.
 
 Code File is FakeNews (Clean Code).ipynb 
 You can follow user manual to execute the code
+Data Set is provided through email
